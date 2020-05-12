@@ -1,1 +1,1 @@
-# display_SSD1306_oled
+# display_SSD1306_128x64_oled
